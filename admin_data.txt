@@ -1,0 +1,6 @@
+usha@cadmin.ac.in pass1
+rashmitha@cadmin.ac.in pass2
+tushitha@cadmin.ac.in pass3
+admin@cadmin.ac.in pass4
+
+
